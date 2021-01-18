@@ -1,0 +1,14 @@
+h1{
+    color: white;
+    font-family: cursive;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+
+}
+
+.navbar{
+
+    background: #f1c100;
+}
